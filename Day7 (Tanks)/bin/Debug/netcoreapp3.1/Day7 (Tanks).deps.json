@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Day7 (Tanks)/1.0.0": {
+        "dependencies": {
+          "HomeworkTankBattle": "1.0.0",
+          "MyClassLib": "1.0.0"
+        },
+        "runtime": {
+          "Day7 (Tanks).dll": {}
+        }
+      },
+      "HomeworkTankBattle/1.0.0": {
+        "runtime": {
+          "HomeworkTankBattle.dll": {}
+        }
+      },
+      "MyClassLib/1.0.0": {
+        "runtime": {
+          "MyClassLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Day7 (Tanks)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HomeworkTankBattle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyClassLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

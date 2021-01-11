@@ -1,0 +1,19 @@
+G:\Проекты\HomeworkTankBattle\Day7 (Tanks)\bin\Debug\netcoreapp3.1\HomeworkTankBattle.exe
+G:\Проекты\HomeworkTankBattle\Day7 (Tanks)\bin\Debug\netcoreapp3.1\Day7 (Tanks).exe
+G:\Проекты\HomeworkTankBattle\Day7 (Tanks)\bin\Debug\netcoreapp3.1\Day7 (Tanks).deps.json
+G:\Проекты\HomeworkTankBattle\Day7 (Tanks)\bin\Debug\netcoreapp3.1\Day7 (Tanks).runtimeconfig.json
+G:\Проекты\HomeworkTankBattle\Day7 (Tanks)\bin\Debug\netcoreapp3.1\Day7 (Tanks).runtimeconfig.dev.json
+G:\Проекты\HomeworkTankBattle\Day7 (Tanks)\bin\Debug\netcoreapp3.1\Day7 (Tanks).dll
+G:\Проекты\HomeworkTankBattle\Day7 (Tanks)\bin\Debug\netcoreapp3.1\Day7 (Tanks).pdb
+G:\Проекты\HomeworkTankBattle\Day7 (Tanks)\bin\Debug\netcoreapp3.1\HomeworkTankBattle.dll
+G:\Проекты\HomeworkTankBattle\Day7 (Tanks)\bin\Debug\netcoreapp3.1\MyClassLib.dll
+G:\Проекты\HomeworkTankBattle\Day7 (Tanks)\bin\Debug\netcoreapp3.1\HomeworkTankBattle.pdb
+G:\Проекты\HomeworkTankBattle\Day7 (Tanks)\bin\Debug\netcoreapp3.1\MyClassLib.pdb
+G:\Проекты\HomeworkTankBattle\Day7 (Tanks)\obj\Debug\netcoreapp3.1\Day7 (Tanks).csprojAssemblyReference.cache
+G:\Проекты\HomeworkTankBattle\Day7 (Tanks)\obj\Debug\netcoreapp3.1\Day7 (Tanks).AssemblyInfoInputs.cache
+G:\Проекты\HomeworkTankBattle\Day7 (Tanks)\obj\Debug\netcoreapp3.1\Day7 (Tanks).AssemblyInfo.cs
+G:\Проекты\HomeworkTankBattle\Day7 (Tanks)\obj\Debug\netcoreapp3.1\Day7 (Tanks).csproj.CoreCompileInputs.cache
+G:\Проекты\HomeworkTankBattle\Day7 (Tanks)\obj\Debug\netcoreapp3.1\Day7 (Tanks).csproj.CopyComplete
+G:\Проекты\HomeworkTankBattle\Day7 (Tanks)\obj\Debug\netcoreapp3.1\Day7 (Tanks).dll
+G:\Проекты\HomeworkTankBattle\Day7 (Tanks)\obj\Debug\netcoreapp3.1\Day7 (Tanks).pdb
+G:\Проекты\HomeworkTankBattle\Day7 (Tanks)\obj\Debug\netcoreapp3.1\Day7 (Tanks).genruntimeconfig.cache

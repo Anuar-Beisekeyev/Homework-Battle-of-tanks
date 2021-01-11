@@ -1,0 +1,9 @@
+G:\Проекты\HomeworkTankBattle\MyClassLib\bin\Debug\netcoreapp3.1\MyClassLib.deps.json
+G:\Проекты\HomeworkTankBattle\MyClassLib\bin\Debug\netcoreapp3.1\MyClassLib.dll
+G:\Проекты\HomeworkTankBattle\MyClassLib\bin\Debug\netcoreapp3.1\MyClassLib.pdb
+G:\Проекты\HomeworkTankBattle\MyClassLib\obj\Debug\netcoreapp3.1\MyClassLib.csprojAssemblyReference.cache
+G:\Проекты\HomeworkTankBattle\MyClassLib\obj\Debug\netcoreapp3.1\MyClassLib.AssemblyInfoInputs.cache
+G:\Проекты\HomeworkTankBattle\MyClassLib\obj\Debug\netcoreapp3.1\MyClassLib.AssemblyInfo.cs
+G:\Проекты\HomeworkTankBattle\MyClassLib\obj\Debug\netcoreapp3.1\MyClassLib.csproj.CoreCompileInputs.cache
+G:\Проекты\HomeworkTankBattle\MyClassLib\obj\Debug\netcoreapp3.1\MyClassLib.dll
+G:\Проекты\HomeworkTankBattle\MyClassLib\obj\Debug\netcoreapp3.1\MyClassLib.pdb

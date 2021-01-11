@@ -1,0 +1,13 @@
+G:\Проекты\HomeworkTankBattle\HomeworkTankBattle\bin\Debug\netcoreapp3.1\HomeworkTankBattle.exe
+G:\Проекты\HomeworkTankBattle\HomeworkTankBattle\bin\Debug\netcoreapp3.1\HomeworkTankBattle.deps.json
+G:\Проекты\HomeworkTankBattle\HomeworkTankBattle\bin\Debug\netcoreapp3.1\HomeworkTankBattle.runtimeconfig.json
+G:\Проекты\HomeworkTankBattle\HomeworkTankBattle\bin\Debug\netcoreapp3.1\HomeworkTankBattle.runtimeconfig.dev.json
+G:\Проекты\HomeworkTankBattle\HomeworkTankBattle\bin\Debug\netcoreapp3.1\HomeworkTankBattle.dll
+G:\Проекты\HomeworkTankBattle\HomeworkTankBattle\bin\Debug\netcoreapp3.1\HomeworkTankBattle.pdb
+G:\Проекты\HomeworkTankBattle\HomeworkTankBattle\obj\Debug\netcoreapp3.1\HomeworkTankBattle.csprojAssemblyReference.cache
+G:\Проекты\HomeworkTankBattle\HomeworkTankBattle\obj\Debug\netcoreapp3.1\HomeworkTankBattle.AssemblyInfoInputs.cache
+G:\Проекты\HomeworkTankBattle\HomeworkTankBattle\obj\Debug\netcoreapp3.1\HomeworkTankBattle.AssemblyInfo.cs
+G:\Проекты\HomeworkTankBattle\HomeworkTankBattle\obj\Debug\netcoreapp3.1\HomeworkTankBattle.csproj.CoreCompileInputs.cache
+G:\Проекты\HomeworkTankBattle\HomeworkTankBattle\obj\Debug\netcoreapp3.1\HomeworkTankBattle.dll
+G:\Проекты\HomeworkTankBattle\HomeworkTankBattle\obj\Debug\netcoreapp3.1\HomeworkTankBattle.pdb
+G:\Проекты\HomeworkTankBattle\HomeworkTankBattle\obj\Debug\netcoreapp3.1\HomeworkTankBattle.genruntimeconfig.cache
